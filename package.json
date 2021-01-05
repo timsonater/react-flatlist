@@ -1,0 +1,9 @@
+{
+  "name": "react-flatlist",
+  "version": "1.0.0",
+  "description": "A react implementation of the react-native flatlist.",
+  "main": "src/index.js",
+  "repository": "https://github.com/timsonater/react-flatlist.git",
+  "author": "timsonater",
+  "license": "MIT",
+}
